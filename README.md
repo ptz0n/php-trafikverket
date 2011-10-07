@@ -13,7 +13,7 @@ Also make sure to check out the [documentation](http://tagtider.net/blogg/tjanst
 ## Credits
 
 * [Anton Lindqvist](https://github.com/mptre) - Design
-* [Rickard Pettersson](http://rickardp.se/) - Feedback
+* [Rickard Pettersson](https://github.com/RickardPettersson) - Feedback
 
 ## License
 

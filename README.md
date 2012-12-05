@@ -17,7 +17,7 @@ Also make sure to check out the [documentation](http://tagtider.net/blogg/tjanst
 
 ## License
 
-Copyright (c) 2011 Erik Pettersson
+Copyright (c) 2012 Erik Eng
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
